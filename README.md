@@ -14,10 +14,10 @@ I build AI-powered products end to end: from data pipelines and machine learning
 
 ### Tech stack
 
-**AI & Data:** Python · pandas · scikit-learn · statsmodels · LLM agents · RAG · Anthropic Claude · OpenAI
-**Backend:** FastAPI · NestJS · PostgreSQL · Redis · Prisma · SQLAlchemy
-**Frontend & Mobile:** Next.js · React · React Native (Expo) · TypeScript · Tailwind CSS
-**Tools:** Docker · Git · GitHub Actions · Playwright · pytest · Jest
+- **AI & Data:** Python · pandas · scikit-learn · statsmodels · LLM agents · RAG · Anthropic Claude · OpenAI
+- **Backend:** FastAPI · NestJS · PostgreSQL · Redis · Prisma · SQLAlchemy
+- **Frontend & Mobile:** Next.js · React · React Native (Expo) · TypeScript · Tailwind CSS
+- **Tools:** Docker · Git · GitHub Actions · Playwright · pytest · Jest
 
 ### Connect
 
